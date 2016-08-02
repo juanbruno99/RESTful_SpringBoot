@@ -1,4 +1,4 @@
-package com.example;
+package com.example.controllers;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.stereotype.Controller;
